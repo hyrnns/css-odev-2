@@ -1,0 +1,58 @@
+body {
+    font-size:12px;
+}
+
+p.clear {
+    clear: both;
+}
+
+.search-bar {
+    background-color: #EEEEEE;
+    margin-left: 70px;
+    margin-right: 70px;
+    text-align: center;
+}
+
+.card1 {
+    width: 30%;
+    background-color: #7EE5DA;
+    margin-left: 70px;
+    float: left;
+    text-align: center;
+    margin-right: 2px;
+    margin-top: 2px;
+    margin-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px ;
+    padding-right: 20px ;
+}
+
+.card2 {
+    width: 17%;
+    background-color: #70CCC2;
+    margin-right: 2px ;
+    margin-top: 2px;
+    margin-bottom: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 5px ;
+    padding-right: 5px ;
+    text-align: center;
+    float: left;
+}
+.card3 {
+    width: 33%;
+    background-color: #62B3AA;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 33px ;
+    padding-right: 30px ;
+    float: left;
+    text-align: center;
+    margin-top: 2px;
+    margin-bottom: 15px;
+}
+
+
+
